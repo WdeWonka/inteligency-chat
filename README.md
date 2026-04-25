@@ -182,11 +182,11 @@ python telegram_bot.py
 
 ### Interfaz web
 
-![Chat web funcionando](docs/screenshots/chat_web.png)
+![Chat web funcionando](docs/screenshots/captura_de_bot_en_local.png)
 
 ### Bot de Telegram
 
-![Bot de Telegram respondiendo](docs/screenshots/telegram_bot.png)
+![Bot de Telegram respondiendo](docs/screenshots/captura_de_bot_en_tg.png)
 
 ---
 
