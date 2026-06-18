@@ -1,8 +1,6 @@
 # Chat Inteligente con Roles
 
-**Estudiante:** William Manuel Garcia Gonzalez
-**Carné:** 090-22-3022
-**Curso:** Inteligencia Artificial
+
 
 ---
 
